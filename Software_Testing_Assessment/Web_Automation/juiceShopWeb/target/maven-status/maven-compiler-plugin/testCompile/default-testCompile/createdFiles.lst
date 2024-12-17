@@ -1,0 +1,10 @@
+stepdefinition/Task3.class
+stepdefinition/Task2.class
+page/RegisterPage.class
+utilities/Driver.class
+page/LoginPage.class
+utilities/ConfigReader.class
+page/HomePage.class
+stepdefinition/Hooks.class
+stepdefinition/Task1.class
+Runner.class
